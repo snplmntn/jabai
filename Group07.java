@@ -22,3 +22,5 @@ public class Group07 {
         System.out.println("Total steps: " + steps);
     }
 }
+
+//test
