@@ -1,4 +1,4 @@
-public class CollatzSequence {
+public class Group07 {
     public static void main(String[] args) {
         // 1. Set a starting number
         int number = 6; 
