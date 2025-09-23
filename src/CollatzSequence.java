@@ -45,7 +45,7 @@ public class CollatzSequence {
             }
             // c. Increment step counter
             steps++; // Increment step counter
-            // hallo!?
+            // aughwrighttt
         }
 
         //  4. Output the total steps
