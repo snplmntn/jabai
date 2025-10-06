@@ -60,6 +60,6 @@ public class item14 {
             sc.nextLine();  // clear buffer
         } while (repeat == 'y');
 
-        System.out.println("Thank you for using the program~!");
+        System.out.println("Thank you for using the program~");
     }
 }
